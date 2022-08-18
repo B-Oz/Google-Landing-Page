@@ -63,6 +63,9 @@ box-shadow: rgb(154, 154, 154) 2px 2px 2px 2px;
     
     margin-top: 200px;
     text-align: center;
+    /* max-width: 50%; */
+   
+
 }
 .main__logo{
     width: 272px;
